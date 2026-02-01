@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  background: #f6f5f0;
+  color: #0b0b0b;
+}
